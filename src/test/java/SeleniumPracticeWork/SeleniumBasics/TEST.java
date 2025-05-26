@@ -1,4 +1,6 @@
 package SeleniumPracticeWork.SeleniumBasics;
 
-public class Test {
+public class TEST {
+
+    //TESTING
 }
