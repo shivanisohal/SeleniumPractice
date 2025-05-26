@@ -11,5 +11,6 @@ public class SeleniumBasic_1 {
         EdgeDriver edgeDriver=new EdgeDriver();
         edgeDriver.get("https://app.vwo.com");
         System.out.println(edgeDriver.getTitle());
+        edgeDriver.quit();
     }
 }
