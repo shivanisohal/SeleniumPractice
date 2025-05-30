@@ -1,4 +1,4 @@
-package SeleniumPracticeWork.SeleniumBasics;
+package SeleniumPracticeWork.SeleniumBasics.Basic;
 
 import org.openqa.selenium.edge.EdgeDriver;
 import org.testng.annotations.Test;

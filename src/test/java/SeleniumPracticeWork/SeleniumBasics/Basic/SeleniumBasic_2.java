@@ -1,4 +1,4 @@
-package SeleniumPracticeWork.SeleniumBasics;
+package SeleniumPracticeWork.SeleniumBasics.Basic;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
