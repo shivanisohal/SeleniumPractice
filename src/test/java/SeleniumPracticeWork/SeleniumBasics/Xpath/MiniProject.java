@@ -52,6 +52,12 @@ public class MiniProject extends CommonToAll {
 
         driver.quit();
 
+        ////input[@id='page-v1-step1-email']
+        //input[@id='page-v1-step1-email' and @name='email' ]
+        //input[@id='page-free-trial-step1-cu-gdpr-consent-checkbox']
+        //button[text()='Create a Free Trial Account']
+
+
 
 
 
